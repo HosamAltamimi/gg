@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap");
+body,
+html {
+  font-family: "Kdam Thmor Pro", sans-serif;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  color: rgb(228, 224, 224);
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60489a18-9bce-460e-adfe-c32b9abcec20/de0g9kq-0033871e-89f0-4c77-a2c1-65d996d3a0b5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwNDg5YTE4LTliY2UtNDYwZS1hZGZlLWMzMmI5YWJjZWMyMFwvZGUwZzlrcS0wMDMzODcxZS04OWYwLTRjNzctYTJjMS02NWQ5OTZkM2EwYjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lE6eJpEKkjj22I-3A97kBiMgO_6yS7TR0dz3Xz_l8_Y");
+
+  background-size: 1000px 500px;
+}
+
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+  text-shadow: 2px 2px hwb(304 22% 59%);
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+h1 {
+  color: rgb(255, 255, 255);
+}
+h3 {
+  color: rgb(201, 126, 167);
+}
+.founder {
+  color: azure;
+}
+
+.contact-me {
+  min-height: 40px;
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 17px;
+}
+
+.contact-me .item img {
+  height: 30px;
+  width: 30px;
+  transition: 300ms;
+  display: flex;
+}
+.contact-me .item img:hover {
+  height: 35px;
+  width: 35px;
+  display: flex;
+}
+
+.item {
+  height: 50x;
+  width: 50x;
+  /* background-color: blue; */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
